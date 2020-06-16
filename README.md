@@ -1,2 +1,3 @@
 # FiNE
-Image Denoiser, Nvidia Optix, Intel OID, RenderMan Hyperion
+CG Image Denoiser
+Intel OID, Nvidia Optix & RenderMan Hyperion.
