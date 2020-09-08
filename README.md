@@ -1,4 +1,4 @@
-![Alt text](logo-fine-alpha.jpg?raw=true "Title")
+[![logo-fine-alpha.png](https://i.postimg.cc/HnZf5430/logo-fine-alpha.png)](https://postimg.cc/xNmxVmwq)
 
 # FiNE
 CG render multi denoising Toolbox. 
