@@ -1,5 +1,4 @@
-[![logo-fine-alpha-github.png](https://i.postimg.cc/ZK7zGZ87/logo-fine-alpha-github.png)](https://postimg.cc/gnZ7hCB8)
-
+[![logo-fine-alpha-25.png](https://i.postimg.cc/B6sz8w5P/logo-fine-alpha-25.png)](https://postimg.cc/wtf2Z2G9)
 # FiNE
 CG render multi denoising Toolbox. 
 Intel OID, Nvidia Optix & RenderMan Hyperion.
