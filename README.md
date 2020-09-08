@@ -3,8 +3,15 @@ CG Image Denoiser
 Intel OID, Nvidia Optix & RenderMan Hyperion.
 
 
+# INSTALL
+Copy the "Denoiser" folder on the C:\ (root level).
+Copy FiNE_v3.24.exe where you want.
+Enjoy !
+For NVidia Optix denoiser, Nvidia drivers must be updated. (at least version 436)
+
+
 # Change Log
-Change Log v3.24
+Change Log **v3.24**
 
 RenderMan Hyperion Denoiser :
 L’option crossFrame fonctionne à nouveau.
@@ -13,8 +20,7 @@ Ajout d’une option “Clean Variance”, qui permet de renommer correctement l
 Le drop down menu des threads est toujours visible sur la fenêtre principale
 
 
-Change Log v3.2
-
+Change Log **v3.2**
 
 Correction de crash si présence d’une “double beauty” (defaut RGB + Beauty)
 Possibilité de denoise les layers avec ou sans l’utilisation de la Albedo & Normal.
@@ -22,7 +28,7 @@ Possibilité de denoise des images 8bits JPG ou PNG. (plus d’excuses de montre
 Mémorisation des layers déjà sélectionnés.
 
 
-Change Log v3.1
+Change Log **v3.1**
 
 Correction d’un bug qui pouvait ne pas denoiser l’image du layer defaut (RGB) s’il avait été sauvegardé par Nuke ou un autre moteur de rendu que Renderman.
 Possibilité de denoiser une image ‘single’ (sans padding) monImage.exr
