@@ -1,4 +1,4 @@
-[![logo-fine-alpha.png](https://i.postimg.cc/HnZf5430/logo-fine-alpha.png)](https://postimg.cc/xNmxVmwq)
+[![logo-fine-alpha-github.png](https://i.postimg.cc/ZK7zGZ87/logo-fine-alpha-github.png)](https://postimg.cc/gnZ7hCB8)
 
 # FiNE
 CG render multi denoising Toolbox. 
