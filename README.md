@@ -1,5 +1,5 @@
-![alt text](https://postimg.cc/xNmxVmwq)
-[logo-fine-alpha.png](https://postimg.cc/xNmxVmwq)
+[logo-fine-alpha.png](https://i.postimg.cc/HnZf5430/logo-fine-alpha.png)
+
 # FiNE
 CG render multi denoising Toolbox. 
 Intel OID, Nvidia Optix & RenderMan Hyperion.
@@ -38,4 +38,3 @@ Possibilité de denoiser une image ‘single’ (sans padding) monImage.exr
 Correction d’un crash causé par la présence d’un fichier portant le même nom mais sans padding dans le même dossier que la séquence d’images à dénoise monImage.####.exr
 monImage.exr
 Décalage des fenêtres popup par Thread pour plus de lisibilité.
-
