@@ -2,7 +2,6 @@
 # FiNE
 CG render multi denoising Toolbox. 
 Intel OID, Nvidia Optix & RenderMan Hyperion.
-(**F**inal **I**mage **N**oise **E**radicator)
 
 
 # INSTALL
