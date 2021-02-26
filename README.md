@@ -2,18 +2,23 @@
 # FiNE
 CG render multi denoising Toolbox. 
 Intel OID, Nvidia Optix & RenderMan Hyperion.
-
+Release v3.30
+https://github.com/ChristopheMoreau/FiNE/releases/tag/v3.30
 
 # INSTALL
-Copy the "Denoiser" folder on the C:\ (root level).
-Copy FiNE_v3.24.exe where you want.
+Unzip the FiNE_v3.30 folder.
+Launch the FiNE_v3.30.exe.
 Enjoy !
 For NVidia Optix denoiser, Nvidia drivers must be updated. (at least version 436)
 
 
 # Change Log
-Change Log **v3.24**
+Change Log **v3.30**
+- New Intel OID 1.4
+- New UI
+- FiNE will check at startup if the system variable **FINE_PATH** exist. 
 
+Change Log **v3.24**
 RenderMan Hyperion Denoiser :
 L’option crossFrame fonctionne à nouveau.
 Ajout d’une option “Clean Variance”, qui permet de renommer correctement les channels des différents layers d’une variance éditée dans Nuke. (Vous pourrez ensuite denoiser cette passe “clean”.
