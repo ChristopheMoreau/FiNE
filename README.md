@@ -14,9 +14,9 @@ For NVidia Optix denoiser, Nvidia drivers must be updated. (at least version 436
 
 # Change Log
 **v3.31**
-You can now spool Intel & Nvidia denoiser job on Tractor. (More options will be available if needed)
-Temporary files in the /temp folder are now deleted after each frame. (not at the end of the sequence)
-Albedo and Normal aov will be merge with the filtered image if they are present in the original unfiltered image.
+- You can now spool Intel & Nvidia denoiser job on Tractor. (More options will be available if needed)
+- Temporary files in the /temp folder are now deleted after each frame. (not at the end of the sequence)
+- Albedo and Normal aov will be merge with the filtered image if they are present in the original unfiltered image.
 
 **v3.30**
 - New Intel OID 1.4
