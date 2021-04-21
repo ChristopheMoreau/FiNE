@@ -6,11 +6,11 @@ Release v3.31
 https://github.com/ChristopheMoreau/FiNE/releases/tag/v3.31
 
 # INSTALL
-Unzip the FiNE_v3.30 folder.
-Launch the FiNE_v3.30.exe.
+Unzip the FiNE_v3.31 folder.
+Launch the FiNE_v3.31.exe.
 Enjoy !
 For NVidia Optix denoiser, Nvidia drivers must be updated. (at least version 436)
-
+For RenderMan denoiser, I assume RendermanProServer is installed. 
 
 # Change Log
 **v3.31**
