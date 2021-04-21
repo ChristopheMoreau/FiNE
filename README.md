@@ -13,7 +13,13 @@ For NVidia Optix denoiser, Nvidia drivers must be updated. (at least version 436
 
 
 # Change Log
-Change Log **v3.30**
+**v3.31** Change Log
+
+You can now spool Intel & Nvidia denoiser job on Tractor. (More options will be available if needed)
+Temporary files in the /temp folder are now deleted after each frame. (not at the end of the sequence)
+Albedo and Normal aov will be merge with the filtered image if they are present in the original unfiltered image.
+
+**v3.30** Change Log
 - New Intel OID 1.4
 - New UI
 - FiNE will check at startup if the system variable **FINE_PATH** exist. 
@@ -26,7 +32,7 @@ Ajout d’une option “Clean Variance”, qui permet de renommer correctement l
 Le drop down menu des threads est toujours visible sur la fenêtre principale
 
 
-Change Log **v3.2**
+**v3.2** Change Log
 
 Correction de crash si présence d’une “double beauty” (defaut RGB + Beauty)
 Possibilité de denoise les layers avec ou sans l’utilisation de la Albedo & Normal.
@@ -34,7 +40,7 @@ Possibilité de denoise des images 8bits JPG ou PNG. (plus d’excuses de montre
 Mémorisation des layers déjà sélectionnés.
 
 
-Change Log **v3.1**
+**v3.1** Change Log
 
 Correction d’un bug qui pouvait ne pas denoiser l’image du layer defaut (RGB) s’il avait été sauvegardé par Nuke ou un autre moteur de rendu que Renderman.
 Possibilité de denoiser une image ‘single’ (sans padding) monImage.exr
