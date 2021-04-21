@@ -27,8 +27,7 @@ Albedo and Normal aov will be merge with the filtered image if they are present 
 RenderMan Hyperion Denoiser :
 - L’option crossFrame fonctionne à nouveau.
 - Ajout d’une option “Clean Variance”, qui permet de renommer correctement les channels des différents layers d’une variance éditée dans Nuke. (Vous pourrez ensuite denoiser cette passe “clean”.
-
-Le drop down menu des threads est toujours visible sur la fenêtre principale
+- Le drop down menu des threads est toujours visible sur la fenêtre principale
 
 
 **v3.2**
