@@ -2,8 +2,8 @@
 # FiNE
 CG render multi denoising Toolbox. 
 Intel OID, Nvidia Optix & RenderMan Hyperion.
-Release v3.30
-https://github.com/ChristopheMoreau/FiNE/releases/tag/v3.30
+Release v3.31
+https://github.com/ChristopheMoreau/FiNE/releases/tag/v3.31
 
 # INSTALL
 Unzip the FiNE_v3.30 folder.
