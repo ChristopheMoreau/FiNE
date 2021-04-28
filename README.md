@@ -2,7 +2,8 @@
 # FiNE
 CG render multi denoising Toolbox. 
 Intel OID, Nvidia Optix & RenderMan Hyperion Denoiser.
-Thanks to Declan Russel for the windows exe => https://github.com/DeclanRussell
+Thanks to Declan Russel for the windows exec.
+https://github.com/DeclanRussell
 
 Release v3.31
 https://github.com/ChristopheMoreau/FiNE/releases/tag/v3.31
