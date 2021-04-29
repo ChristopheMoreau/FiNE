@@ -5,17 +5,22 @@ Intel OID, Nvidia Optix & RenderMan Hyperion Denoiser.
 Thanks to Declan Russell for the windows exec.
 https://github.com/DeclanRussell
 
-Release v3.31
-https://github.com/ChristopheMoreau/FiNE/releases/tag/v3.31
+Release v3.32
+https://github.com/ChristopheMoreau/FiNE/releases/tag/v3.32
 
 # INSTALL
-Unzip the FiNE_v3.31 folder.
-Launch the FiNE_v3.31.exe.
+Unzip the FiNE_v3.32 folder.
+Launch the FiNE_v3.32.exe.
 Enjoy !
 For NVidia Optix denoiser, Nvidia drivers must be updated. (at least version 436)
 For RenderMan denoiser, I assume RendermanProServer is installed. 
 
 # Change Log
+**v3.32**
+- 3 Tractor settings are available : Project Name, Priority and Service key.
+- Those settings will be saved in an .ini file for the current user on the current computer.
+- Minor bug fixes if multiples jobs runs on a tractor blade on the same frame at the same time.
+
 **v3.31**
 - You can now spool Intel & Nvidia denoiser job on Tractor. (More options will be available if needed)
 - Temporary files in the /temp folder are now deleted after each frame. (not at the end of the sequence)
