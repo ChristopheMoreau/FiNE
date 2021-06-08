@@ -5,8 +5,10 @@ Intel OID, Nvidia Optix & RenderMan Hyperion Denoiser.
 Thanks to Declan Russell for the windows exec.
 https://github.com/DeclanRussell
 
-Release v3.32
-https://github.com/ChristopheMoreau/FiNE/releases/tag/v3.32
+Release v3.33
+- Upgraded OIDN version to 1.4.0 see release notes for details.
+- Added the -clean_aux flag. This can improve denoising quality but assumes that all feature AOVs are noiseless. If AOVs are noisy when using this option, results can be worse. Available in the "Advanced" Tab.
+https://github.com/ChristopheMoreau/FiNE/releases/tag/v3.33
 
 # INSTALL
 Unzip the FiNE_v3.32 folder.
@@ -16,6 +18,10 @@ For NVidia Optix denoiser, Nvidia drivers must be updated. (at least version 436
 For RenderMan denoiser, I assume RendermanProServer is installed. 
 
 # Change Log
+**v3.33**
+- Upgraded OIDN version to 1.4.0 see release notes for details.
+- Added the -clean_aux flag. This can improve denoising quality but assumes that all feature AOVs are noiseless. If AOVs are noisy when using this option, results can be worse. Available in the "Advanced" Tab.
+
 **v3.32**
 - 3 Tractor settings are available : Project Name, Priority and Service key.
 - Those settings will be saved in an .ini file for the current user on the current computer.
